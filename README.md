@@ -6,7 +6,7 @@ This repo contains the labs and projects associated with Artificial Intelligence
 
 While not all labs and projects from this class will be available the ones available for viewing will be displayed below.  Highlighted projects are denoted by one to two asterisks.  A small description is placed aside each project
 
-   Boggle - boggle game solver to build all possible words from adjacent letters<br/>
+'''   Boggle - boggle game solver to build all possible words from adjacent letters<br/>
  * Cryptogram - takes in an encrypted message and returns a decrypted message using regex and frequency tables<br/>
    Hexagons - determines the number of colors required to create a n-polygon with no adjacent similiar colors<br/>
 ** Othello - othello playing program that incoporates alpha beta pruning, negamax, and various heuristics to optimize moveset<br/>
@@ -17,4 +17,4 @@ While not all labs and projects from this class will be available the ones avail
    Tic-Tac-Toe - a tic-tac-toe playing program that never loses <br/>
    Traveling Salesman - visualization of the traveling salesman problem on various datasets<br/>
    Word Ladder - generates the maximum number of words that are connected to a word that differ by a single letter<br/>
- * XOR Network - XOR neural network that is used to determine if a random point is within the area contained by the unit circle<br/>
+ * XOR Network - XOR neural network that is used to determine if a random point is within the area contained by the unit circle<br/>'''
