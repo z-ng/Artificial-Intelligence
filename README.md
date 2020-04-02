@@ -4,7 +4,7 @@ This repo contains the labs and projects associated with Artificial Intelligence
 
 ## Labs/Projects
 
-While not all labs and projects from this class will be available the ones available for viewing will be displayed below.  Highlighted projects will be bolded, with an emphasis on Othello (astericked).  A small description is placed aside each project
+While not all labs and projects from this class will be available the ones available for viewing will be displayed below.  Highlighted projects will be bolded, with an emphasis on Othello (asterisked).  A small description is placed aside each project
 
   Boggle - boggle game solver to build all possible words from adjacent letters<br/>
   **Cryptogram** - takes in an encrypted message and returns a decrypted message using regex and frequency tables<br/>
