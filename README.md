@@ -4,12 +4,12 @@ This repo contains the labs and projects associated with Artificial Intelligence
 
 ## Labs/Projects
 
-While not all labs and projects from this class will be available the ones available for viewing will be displayed below.  Highlighted projects will be bolded.  A small description is placed aside each project
+While not all labs and projects from this class will be available the ones available for viewing will be displayed below.  Highlighted projects will be bolded, with an emphasis on Othello (astericked).  A small description is placed aside each project
 
   Boggle - boggle game solver to build all possible words from adjacent letters<br/>
   **Cryptogram** - takes in an encrypted message and returns a decrypted message using regex and frequency tables<br/>
   Hexagons - determines the number of colors required to create a n-polygon with no adjacent similiar colors<br/>
-  \***Othello**\* - *othello playing program that incoporates alpha beta pruning, negamax, and various heuristics to optimize moveset*<br/>
+  \*\***Othello**\*\* - *othello playing program that incoporates alpha beta pruning, negamax, and various heuristics to optimize moveset*<br/>
   **Railroad** - visualization of a\* algorithm to determine the shortest path between two railroad stations<br/>
   Regex - labs associated with regular expression homework<br/>
   **Slider Puzzle** - implements a\* to find the minimum number of moves required to solve slider puzzle<br/>
