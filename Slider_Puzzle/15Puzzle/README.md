@@ -1,6 +1,6 @@
 ## 15astar
 
-15astar implements the a* algorithm to determine the optimal moveset to solve a given 4x4 slider puzzle.  
+15astar implements the a\* algorithm to determine the optimal moveset to solve a given 4x4 slider puzzle.  
 
   To run this program use the following commands:
 

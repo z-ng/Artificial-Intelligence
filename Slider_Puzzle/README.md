@@ -6,7 +6,7 @@ There are several versions of this program:
 
   15-Puzzle (16 possible spaces)
     
-    15astar.py uses the a* algorithm to determine the shortest path to solve a 4x4 puzzle for the slider puzzle
+    15astar.py uses the a\* algorithm to determine the shortest path to solve a 4x4 puzzle for the slider puzzle
 
   8-Puzzle (9 possible spaces)
 
@@ -16,7 +16,7 @@ There are several versions of this program:
 
 ## 15astar
 
-15astar implements the a* algorithm to determine the optimal moveset to solve a given 4x4 slider puzzle.  
+15astar implements the a\* algorithm to determine the optimal moveset to solve a given 4x4 slider puzzle.  
 
   To run this program use the following commands:
 
