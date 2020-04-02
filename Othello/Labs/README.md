@@ -45,9 +45,15 @@ This repository contains a set of programs to play the othello board game.  Othe
 
 ## Othello4
 
-  Othello4 is a program that is able to play against a human.  Simply enter a number that represents your position to place a token.
+  Othello4 is a version of the program that takes in human input, allowing the user to play a game against the computer.  This program uses the mscvrt package and can only be run on a Windows machine as a   result.
 
-  TEST ON COMPUTER
+  To run this program use the following command(s):
+
+    python3 Othello4.py
+
+  This will produce a similiar output to the one below:
+    
+  ![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Othello/Labs/player.gif)	
 
 ## Othello5
   
