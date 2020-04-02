@@ -131,7 +131,7 @@ This repository contains a set of programs to play the othello board game.  Othe
 
   This would produce a similiar output to hte one below:
     
-  ![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/test/test.gif)	
+  ![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Othello/Labs/test.gif)	
 
 
 
