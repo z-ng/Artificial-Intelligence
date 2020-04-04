@@ -8,6 +8,6 @@ Word ladder is a program that determines how connections a word has with other w
   
   For the word "abased" the following output should be given:
 
-![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Word_Ladder/example.png)
+![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Word_Ladder/example.png)
 
 A list of words can be found in 6letter.txt.

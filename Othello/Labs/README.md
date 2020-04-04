@@ -12,7 +12,7 @@ This repository contains a set of programs to play the othello board game.  Othe
 
   For example, the board state for "...XOXO.OXOXO.XOO...XOO........O.XXOXOO...XO.............XOXOO.." would be:
 
-  ![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Othello/Labs/Othello1.png)
+  ![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Othello/Labs/Othello1.png)
 
 
   You can also run test this program against the moderator program using the following:
@@ -29,7 +29,7 @@ This repository contains a set of programs to play the othello board game.  Othe
 
   For example, the output for "...XOXO.OXOXO.XOO...XOO........O.XXOXOO...XO.............XOXOO.." would be:
 
-  ![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Othello/Labs/Othello2.png)
+  ![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Othello/Labs/Othello2.png)
 
 ## Othello3 
 
@@ -41,7 +41,7 @@ This repository contains a set of programs to play the othello board game.  Othe
 
   For example, the output for "...XOXO.OXOXO.XOO...XOO........O.XXOXOO...XO.............XOXOO.. 13" would be:
 
-  ![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Othello/Labs/Othello3.png)
+  ![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Othello/Labs/Othello3.png)
 
 ## Othello4
 
@@ -53,7 +53,7 @@ This repository contains a set of programs to play the othello board game.  Othe
 
   This will produce a similiar output to the one below:
     
-  ![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Othello/Labs/player.gif)	
+  ![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Othello/Labs/player.gif)	
 
 ## Othello5
   
@@ -65,7 +65,7 @@ This repository contains a set of programs to play the othello board game.  Othe
 
   For example, the output for "...XOXO.OXOXO.XOO...XOO........O.XXOXOO...XO.............XOXOO.." would be:
 
-  ![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Othello/Labs/Othello5.png)	
+  ![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Othello/Labs/Othello5.png)	
 
   You can also run test this program against the moderator program using the following:
     
@@ -81,7 +81,7 @@ This repository contains a set of programs to play the othello board game.  Othe
 
   For example, the output for "...XOXO.OXOXO.XOO...XOO........O.XXOXOO...XO.............XOXOO.." would be:
 
-  ![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Othello/Labs/Othello6.png)	
+  ![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Othello/Labs/Othello6.png)	
 
   You can also run test this program against the moderator program using the following:
     
@@ -97,7 +97,7 @@ This repository contains a set of programs to play the othello board game.  Othe
 
   For example, the output for "...XOXO.OXOXO.XOO...XOO........O.XXOXOO...XO.............XOXOO.." would be:
 
-  ![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Othello/Labs/Othello7.png)	
+  ![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Othello/Labs/Othello7.png)	
 
   You can also run test this program against the moderator program using the following:
     
@@ -137,7 +137,7 @@ This repository contains a set of programs to play the othello board game.  Othe
 
   This would produce a similiar output to hte one below:
     
-  ![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Othello/Labs/test.gif)	
+  ![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Othello/Labs/test.gif)	
 
 
 

@@ -10,4 +10,4 @@ Tic Tac Toe is a tic tac toe bot that uses BFS to partition moves into good, bad
   
   This should produce a result similiar to the one below.
 
-![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/TicTacToe/example.gif)
+![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/TicTacToe/example.gif)

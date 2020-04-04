@@ -8,7 +8,7 @@ Explore2 runs 100 simulated test cases for the 8puzzle.  The average distance fr
   
   This should produce a result similiar to the one below.
 
-![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Slider_Puzzle/8Puzzle/explore2.png)
+![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Slider_Puzzle/8Puzzle/explore2.png)
 
 ## 8Explore
  
@@ -20,7 +20,7 @@ Explore determines how many cases there are for how many moves must be completed
   
   This should produce a result similiar to the one below.
 
-![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Slider_Puzzle/8Puzzle/explore.png)
+![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Slider_Puzzle/8Puzzle/explore.png)
 
 
 ## 8fast 
@@ -33,7 +33,7 @@ Fast returns the optimal moveset for a given puzzle state for the 8 puzzle.
 
   Please ensure that the puzzle state entered is a valid puzzle state.
 
-  ![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Slider_Puzzle/8Puzzle/fast.gif)
+  ![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Slider_Puzzle/8Puzzle/fast.gif)
 
   The input used for the example above was: "241753_86"
 

@@ -8,4 +8,4 @@ Unit circle is a program that utilizes a neural network to determine if a point 
   
   Note numpy must be installed.  This should produce a result similiar to the one below:
 
-![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/XOR/example.gif)
+![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/XOR/example.gif)

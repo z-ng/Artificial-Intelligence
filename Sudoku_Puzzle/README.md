@@ -14,4 +14,4 @@ To run the programs, simply use the following commands
   
   An example out from 9x9Sudoku is displayed below:
 
-![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Sudoku_Puzzle/example.gif)
+![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Sudoku_Puzzle/example.gif)

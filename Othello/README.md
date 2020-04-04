@@ -16,7 +16,7 @@ This repository contains a set of programs to play the othello board game.  Othe
 
     This will produce a similiar output to the one below:
     
-  ![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Othello/example.gif)	
+  ![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Othello/example.gif)	
 
 
 ## OthelloPlayer
@@ -29,4 +29,4 @@ This repository contains a set of programs to play the othello board game.  Othe
 
   This will produce a similiar output to the one below:
     
-  ![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Othello/Labs/player.gif)	
+  ![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Othello/Labs/player.gif)	

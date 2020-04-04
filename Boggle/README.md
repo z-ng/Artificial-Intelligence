@@ -8,4 +8,4 @@ Boggle is a program that finds words in the board game boggle.  In the word game
   
 An example run has been shown below.
 
-![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Boggle/boggle.gif)
+![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Boggle/boggle.gif)

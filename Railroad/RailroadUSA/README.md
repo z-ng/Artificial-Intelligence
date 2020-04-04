@@ -10,4 +10,4 @@ Railroad USA is a visual representation of the a\* greedy algorithm.  It seeks t
   
   This should produce a result similiar to the one below.
 
-![Example](https://raw.githubusercontent.com/z-ng/Artificial_Intelligence/main/Railroad/RailroadUSA/example.gif)
+![Example](https://raw.githubusercontent.com/zac-ng/Artificial_Intelligence/main/Railroad/RailroadUSA/example.gif)
